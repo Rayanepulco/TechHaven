@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name":" ECRAN AMOLED ULTRAHD",
+        "price": 1200,
+        "image": "./image/Produit A.png"
+    },
+    {
+        "id": 2,
+        "name":" ECRAN AMOLED FULLHD",
+        "price": 1000,
+        "image": "./image/produit2-removebg-preview.png"
+    },
+    {
+        "id": 3,
+        "name":" MACBOOK PRO 16pouce",
+        "price": 950,
+        "image": "./image/produit3-removebg-preview.png"
+    },
+    {
+        "id": 4,
+        "name":" ORDINATEUR PORTABLE 18Pouce",
+        "price": 900,
+        "image": "./image/produit4-removebg-preview.png"
+    },
+    {
+        "id": 5,
+        "name":" ORDINATEUR PORTABLE 16Pouce",
+        "price": 800,
+        "image": "./image/produit5-removebg-preview.png"
+    },
+    {
+        "id": 6,
+        "name":" CLAVIER GAMING AVEC LED RGB",
+        "price": 250,
+        "image": "./image/prduit6-removebg-preview.png"
+    },
+    {
+        "id": 7,
+        "name":" SOURIS HAMING LOGITECH",
+        "price": 150,
+        "image": "./image/produit7-removebg-preview.png"
+    },
+    {
+        "id": 8,
+        "name":" SOURIS GAMING AVEC LED",
+        "price": 150,
+        "image": "./image/produit8-removebg-preview (1).png"
+    }
+]
